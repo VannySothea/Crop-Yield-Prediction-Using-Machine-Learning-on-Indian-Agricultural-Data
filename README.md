@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction Using Machine Learning
+# 🌾 Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture
 
 ## 📘 Project Overview
 

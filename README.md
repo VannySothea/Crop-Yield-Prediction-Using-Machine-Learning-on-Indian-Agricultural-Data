@@ -20,6 +20,7 @@ This project leverages machine learning to recommend the most suitable crop for 
 - [⚙️ Hyperparameter Tuning](#️-hyperparameter-tuning)
 - [🔍 Findings from Clustering](#-findings-from-clustering)
 - [🧠 Reflection and Argument](#-reflection-and-argument)
+- [📄 Report Submission](#-report-submission)
 
 ---
 
@@ -161,3 +162,61 @@ Each cluster revealed a different environmental preference, helping identify pat
 - Integrate satellite and real-time IoT sensor data
 - Incorporate regional constraints and climate anomalies
 - Extend to multi-crop recommendation and yield prediction
+
+---
+
+## 📄 Report Submission
+### Optimizing Crop Selection Using Machine Learning for Sustainable Agriculture
+
+👩‍🔬 **Authors - Vanny Sothea**
+📆 Date of Submission - June 3, 2025
+
+**📘 Abstract**
+This project aims to support sustainable agricultural practices by leveraging machine learning to recommend the most suitable crop for specific environmental and soil conditions. By analyzing features such as nitrogen (N), phosphorus (P), potassium (K), temperature, humidity, pH, and rainfall, a classification model can predict optimal crop types. The resulting tool helps farmers improve crop yield, minimize resource waste, and contribute to global food security.
+
+**🧠 Keywords**
+Sustainable agriculture, crop recommendation, machine learning, logistic regression, clustering, agricultural optimization
+
+**📌 Objectives**
+- To analyze the relationship between soil and climate factors and crop suitability
+- To develop a machine learning-based model for accurate crop prediction
+- To help farmers make data-driven decisions for crop selection
+
+**🧪 Methodology Summary**
+- Dataset Source: Public CSV dataset of environmental and soil metrics
+- Tools & Libraries: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ipywidgets
+- Models Used: K-Means Clustering for unsupervised crop grouping, Logistic Regression for classification
+- Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
+
+**🧾 Results Summary**
+- Logistic Regression achieved high performance with:
+  - Accuracy: ~0.98
+  - Precision: ~0.98
+  - Recall: ~0.98
+  - F1 Score: ~0.98
+- Clustering revealed four distinct crop groups based on shared environmental requirements
+- Visualization tools and interactive widgets provide valuable insights for agronomists and farmers
+
+**🧠 Key Insights**
+- Different crops have significantly different environmental needs.
+- Crops like rice and cotton require high nitrogen, whereas crops like apple and orange thrive in low temperatures.
+- Logistic regression can be effectively used in multiclass classification for crop recommendation.
+
+**💡 Future Work**
+- Integration of real-time weather and soil sensor data
+- Expansion to region-specific crop datasets
+- Implementation of a mobile/web application for farmer access
+- Experimentation with ensemble models (Random Forest, XGBoost, etc.)
+
+**🔗 Code Access**
+Google Colab: [Optimizing_Crop_Selection.ipynb](https://colab.research.google.com/drive/1Llri1rZ--q4Kl788aHzZdf81GJes7UVR?usp=sharing)
+
+
+
+
+
+
+
+
+
+

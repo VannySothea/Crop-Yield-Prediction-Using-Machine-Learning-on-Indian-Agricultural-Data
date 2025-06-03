@@ -18,7 +18,7 @@ This project can significantly improve crop yield and farming efficiency, partic
 - [❓ Why These Models?](#-why-these-models)
 - [📏 Evaluation Metrics](#-evaluation-metrics)
 - [⚙️ Hyperparameter Tuning](#️-hyperparameter-tuning)
-- [⚙️ Reflection and Argument](#️-reflection-and-argument)
+- [⚙️ Reflection and Argument](#reflection-and-argument)
 
 ---
 
@@ -66,7 +66,7 @@ Farmers often lack access to scientific tools that can help them decide which cr
 
 ---
 
-## 🛠️ Methodology
+## 🛠 Methodology
 
 1. Data Preprocessing (cleaning, encoding, normalization)
 2. Exploratory Data Analysis (EDA)

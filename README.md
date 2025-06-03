@@ -111,6 +111,14 @@ For model evaluation, the following metrics were used:
 4. **F1 Score (Weighted)**: Harmonic mean of precision and recall.
 5. **Confusion Matrix**: Visual tool to identify misclassified crops.
 
+**This Model**
+```
+Accuracy: 0.9681818181818181
+Precision: 0.9699452867394045
+Recall: 0.9681818181818181
+F1 Score: 0.9681168080082031
+```
+
 ---
 
 ## ⚙️ Hyperparameter Tuning

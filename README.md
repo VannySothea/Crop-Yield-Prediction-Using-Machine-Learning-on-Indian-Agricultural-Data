@@ -53,7 +53,7 @@ Farmers often lack access to scientific tools that can help them decide which cr
 
 ## 📦 Dataset
 
-- **Type:** Secondary Dataset  
+- **Type:** Secondary Dataset: [agricultural_production_optimization.csv ](https://github.com/VannySothea/Optimizing-Crop-Selection-Using-Machine-Learning-for-Sustainable-Agriculture/blob/main/agricultural_production_optimization.csv) 
 - **The dataset includes the following features:**
   - `N` (Nitrogen content in the soil)
   - `P` (Phosphorus content)
